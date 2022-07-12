@@ -5,9 +5,6 @@
 ##### h5 Heading
 ###### h6 Heading
 
-
-## Horizantal Rules
-
 ___
 
 
